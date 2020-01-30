@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(1, 4, 49);
+    background: url("picture/moon.jpg");
+ }
+
+  .Biography {
+      font-size: 30px;
+      text-align: center;
+      
+  }
+
+
+   h1 {
+    border: 20px;
+    text-align: center;
+    color: black;
+    font-family: Verdana;
+    font-size: 40px;
+    color: white;
+}
+   
+    h2 {
+        font-family: verdana;
+        font-size: 40px;  
+        color:  white;  
+    }
+  p {
+    text-align: left;
+    font-family: 'Courier New';
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+  }
+
+  #myface {
+    width: 2000px;
+    height: 250px;
+    background-color:lightgrey;
+  }
+
+  #backgroundforface {
+      block-size: auto;
+      color: lightblue;
+      padding-left: auto;
+  }
+
+  a {
+      
+      font-size: 30px;
+      font-style: verdana;
+      color: white;
+      padding-right: 150px;
+      padding-left: 150px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      background-color:grey;
+      text-decoration-line: none;
+      font-weight: bold;
+      
+  }
+  a:hover {
+      background-color: white;
+      color:black;
+      
+  }
+
+  #earnings,#talent,#skills {
+    background-color:grey;
+  }
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    font-family: Verdana;
+}
+
+#class1 {
+    padding: 20px;
+    color: grey;  
+}
